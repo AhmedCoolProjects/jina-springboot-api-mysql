@@ -34,6 +34,10 @@ It is a template for spring boot rest api.
 ![image](https://user-images.githubusercontent.com/72823374/153890558-4c83daed-c185-4a64-9b70-e29b513d0b23.png)
 ![image](https://user-images.githubusercontent.com/72823374/153890681-7c57c266-4547-4bd1-976f-a21867c749f4.png)
 
+## Database employee table
+![image](https://user-images.githubusercontent.com/72823374/153891693-4d719b96-f8aa-4db9-a14f-ec968724add1.png)
+
+
 ## My portfolio
 
 [Ahmed Bargady](https://ahmedbargady.ma)
